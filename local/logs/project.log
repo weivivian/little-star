@@ -1,0 +1,55 @@
+2018-04-26T00:39:34.257Z - normal: Load ~/.CocosCreator/settings.json
+2018-04-26T00:39:34.264Z - normal: checking language setting...
+2018-04-26T00:39:34.264Z - normal: Language: zh
+2018-04-26T00:39:37.094Z - success: protocol editor-framework registered
+2018-04-26T00:39:37.094Z - success: protocol app registered
+2018-04-26T00:39:37.094Z - success: protocol theme registered
+2018-04-26T00:39:37.095Z - success: protocol packages registered
+2018-04-26T00:39:37.095Z - success: protocol unpack registerred
+2018-04-26T00:39:37.095Z - success: protocol disable-commonjs registerred
+2018-04-26T00:39:37.983Z - normal: connected!
+2018-04-26T00:39:37.987Z - normal: Check project C:\Users\chenwei\Desktop\start_project\start_project
+2018-04-26T00:39:37.992Z - normal: Initializing Cocos2d
+2018-04-26T00:39:38.495Z - normal: Initializing Asset Database
+2018-04-26T00:39:38.590Z - success: protocol uuid registerred
+2018-04-26T00:39:38.590Z - success: protocol db registerred
+2018-04-26T00:39:38.590Z - success: protocol thumbnail registerred
+2018-04-26T00:39:38.591Z - normal: Loading editor/builtin packages
+2018-04-26T00:39:38.627Z - success: anysdk loaded
+2018-04-26T00:39:38.923Z - success: assets loaded
+2018-04-26T00:39:38.927Z - success: builder loaded
+2018-04-26T00:39:38.932Z - success: cocos-analytics loaded
+2018-04-26T00:39:38.939Z - success: console loaded
+2018-04-26T00:39:39.015Z - success: fb-instant-games loaded
+2018-04-26T00:39:39.022Z - success: hierarchy loaded
+2018-04-26T00:39:39.027Z - success: inspector loaded
+2018-04-26T00:39:39.030Z - success: keystore loaded
+2018-04-26T00:39:39.037Z - success: node-library loaded
+2018-04-26T00:39:39.040Z - success: package-asset loaded
+2018-04-26T00:39:39.045Z - success: preferences loaded
+2018-04-26T00:39:39.048Z - success: project-exporter loaded
+2018-04-26T00:39:39.085Z - success: project-importer loaded
+2018-04-26T00:39:39.090Z - success: project-settings loaded
+2018-04-26T00:39:39.094Z - success: ui-kit loaded
+2018-04-26T00:39:39.096Z - success: ui-grid loaded
+2018-04-26T00:39:39.102Z - success: scene loaded
+2018-04-26T00:39:39.105Z - success: sprite-editor loaded
+2018-04-26T00:39:39.112Z - success: store loaded
+2018-04-26T00:39:39.124Z - success: timeline loaded
+2018-04-26T00:39:39.124Z - normal: Loading builtin packages
+2018-04-26T00:39:39.128Z - success: asset-db-debugger loaded
+2018-04-26T00:39:39.131Z - success: code-editor loaded
+2018-04-26T00:39:39.132Z - success: color-picker loaded
+2018-04-26T00:39:39.136Z - success: package-manager loaded
+2018-04-26T00:39:39.147Z - success: sdkbox loaded
+2018-04-26T00:39:39.153Z - success: tester loaded
+2018-04-26T00:39:39.156Z - success: ui-kit-preview-extra loaded
+2018-04-26T00:39:39.168Z - success: ui-kit-preview loaded
+2018-04-26T00:39:39.172Z - success: ui-tree loaded
+2018-04-26T00:39:41.748Z - normal: Initializing project C:\Users\chenwei\Desktop\start_project\start_project
+2018-04-26T00:39:41.755Z - normal: Loading packages
+2018-04-26T00:39:41.763Z - normal: Watching packages
+2018-04-26T00:39:41.788Z - normal: Run Application
+2018-04-26T00:39:42.767Z - success: preview server running at http://localhost:7456
+2018-04-26T00:39:53.161Z - normal: 1.9.0
+2018-04-26T02:00:57.641Z - info: shutdown preview server
